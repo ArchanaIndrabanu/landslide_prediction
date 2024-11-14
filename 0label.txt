@@ -1,0 +1,33 @@
+default_values = {
+    'UnitArea': 1000000.0,  # Adjusted to a lower value
+    'SlopeM': 10.0,         # Adjusted to a lower value
+    'SlopeStd': 5.0,        # Adjusted to a lower value
+    'PlanM': 0.0,           # Adjusted to a neutral value
+    'PlanStd': 1.0,         # Adjusted to a lower value
+    'ProfileM': 0.0,        # Adjusted to a neutral value
+    'ProfileStd': 1.0,      # Adjusted to a lower value
+    'Dis2FaultsMean': 1000.0,  # Adjusted to a higher value
+    'Dis2FaultsStd': 300.0,    # Adjusted to a higher value
+    'RainMean': 100.0,      # Adjusted to a lower value
+    'Perimeter': 5000.0,    # Adjusted to a lower value
+    'PAratio': 0.002,       # Adjusted to a lower value
+    'SUmaxDis': 5000.0,     # Adjusted to a higher value
+    'CoordX': 120.0,        # Adjusted to a lower value
+    'CoordY': 24.0,         # Adjusted to a lower value
+    'CoordXUTM': 295000.0,  # Adjusted to a lower value
+    'CoordYUTM': 2700000.0, # Adjusted to a lower value
+    'NDVI1': 0.1,           # Adjusted to a neutral value
+    'NDVI2': 0.2,           # Adjusted to a lower value
+    'NDVI3': 50.0,          # Adjusted to a lower value
+    'PGAmax': 0.01,         # Adjusted to a lower value
+    'PGAsum': 0.01,         # Adjusted to a lower value
+    'PGAdegree': 0.0,       # Adjusted to a neutral value
+    'ReliefIntenM': 0.1,    # Adjusted to a lower value
+    'ReliefInteStd': 5.0,   # Adjusted to a lower value
+    'ReliefRangeM': 40.0,   # Adjusted to a lower value
+    'ReliefRangeStd': 20.0, # Adjusted to a lower value
+    'ReliefVarM': 500.0,    # Adjusted to a lower value
+    'ReliefVarStd': 300.0,  # Adjusted to a lower value
+    'NDVIm': 0.3,           # Adjusted to a lower value
+    'NDVIstd': 0.02         # Adjusted to a lower value
+}
